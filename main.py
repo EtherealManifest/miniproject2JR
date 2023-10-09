@@ -2,6 +2,7 @@
 # INF 601
 # MiniProject 2
 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
